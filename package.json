@@ -1,7 +1,13 @@
 {
   "name": "atom-org",
   "version": "1.0.4",
-  "description": "",
+  "dependencies": {
+    "bip39": "^3.0.4",
+    "crypto-js": "^4.1.1",
+    "ethereumjs-common": "^1.5.2",
+    "ethereumjs-tx": "^2.1.2",
+    "ethereumjs-wallet": "^1.0.2"
+  },
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
