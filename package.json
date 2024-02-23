@@ -7,10 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-  "type": "git",
+    "type": "git",
     "url": "git+https://github.com/holdgan/atom-org"
-},
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bip39": "^3.1.0",
+    "crypto-js": "^4.2.0",
+    "ethereumjs-util": "^7.1.5",
+    "ethereumjs-wallet": "^1.0.2"
+  }
 }
