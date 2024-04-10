@@ -1,5 +1,4 @@
 const bip39 = require('bip39')
-const {hdkey} = require('ethereumjs-wallet')
 const util = require('ethereumjs-util')
 const CryptoJS = require('crypto-js');  
 

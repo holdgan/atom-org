@@ -1,6 +1,6 @@
 {
   "name": "atom-org",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "dependencies": {
     "bip39": "^3.1.0",
     "crypto-js": "^4.2.0",
